@@ -1,2 +1,2 @@
 ### Hack The Box
-[ ![Crow](https://www.hackthebox.eu/profile/374839)
+<img src="http://www.hackthebox.eu/badge/image/374839" alt="Hack The Box">
